@@ -358,6 +358,12 @@ summary {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  gap: 12px;
+}
+
+.summary-text {
+  flex-grow: 1;
+  text-align: left;
 }
 
 details[open] .summary-text {
