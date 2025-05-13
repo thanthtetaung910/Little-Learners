@@ -12,4 +12,6 @@ Download or clone this repository.
 
 Extract the contents to your C: drive (e.g., C:\Little-Learners-main\).
 
+The file extension  will be ( C:\Little-Learners-main\Little-Learners-main\).
+
 Open the Home_Page.html file in your web browser to view the system.
